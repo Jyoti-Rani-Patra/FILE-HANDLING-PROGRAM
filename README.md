@@ -44,3 +44,4 @@
   Improved coding practices in C programming, particularly in using functions and control structures.
 
 # OUTPUT#: 
+  ![Image](https://github.com/user-attachments/assets/77c791fe-ad2c-45e1-9e58-564d0ef33f25)
