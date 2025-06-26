@@ -1,16 +1,16 @@
 # FILE-HANDLING-PROGRAM
 
-# COMPANY#: CODTECH IT SOLUTIONS
+# COMPANY: CODTECH IT SOLUTIONS
 
-# NAME#: JYOTI RANI PATRA
+# NAME: JYOTI RANI PATRA
 
-# INTERN ID#: CT04DF965
+# INTERN ID: CT04DF965
 
-# DOMAIN#: C PROGRAMMING
+# DOMAIN: C PROGRAMMING
 
-# DURATION#: 4 WEEKS
+# DURATION: 4 WEEKS
 
-# MENTOR#: NEELA SANTHOSH
+# MENTOR: NEELA SANTHOSH
 
 # Project Overview: File Handling Program Using C
 # Objective:
@@ -43,5 +43,5 @@
   Use of error handling in file operations
   Improved coding practices in C programming, particularly in using functions and control structures.
 
-# OUTPUT#: 
+# OUTPUT: 
   ![Image](https://github.com/user-attachments/assets/77c791fe-ad2c-45e1-9e58-564d0ef33f25)
